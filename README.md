@@ -30,12 +30,11 @@ A simple web application built with React and Vite that displays frequently aske
 
    ```bash
     cd faqs
-
-3. **Install dependencies:** 
+3. Instal dependancies:
 
     npm install
 
-4. * Start the development server: *
+4.Start the development server:
 
     npm run dev
-last 3 and 4 did not properly wrap 
+
